@@ -1,0 +1,3 @@
+class OpenTriviaInterface
+  
+end
